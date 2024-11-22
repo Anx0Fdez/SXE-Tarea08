@@ -17,8 +17,8 @@
 6. Dar click en activar.
 
 <div style="display: flex;">
-  <img src="img/img1.png" style="width: 50%;">
-  <img src="img/img4.png" style="width: 50%;">
+  <img src="img/img1.png" style="width: 49%;">
+  <img src="img/img4.png" style="width: 49%;">
 </div>
 
 ---
